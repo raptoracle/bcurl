@@ -1,7 +1,7 @@
 /**
  * http-test.js - HTTP tests for bcurl
  * Copyright (c) 2019, Mark Tyneway (MIT License).
- * https://github.com/bcoin-org/bweb
+ * https://github.com/raptoracle/bweb
  */
 
 'use strict';
